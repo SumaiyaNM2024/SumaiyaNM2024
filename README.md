@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sumaiya 
 - 👀 I’m interested in Teaching 
 - 🌱 I’m currently teaching SAAS - Full Stack Application
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sumaiyanm2024@gmail.com
 - ⚡ Fun fact: You get to learn new skills all the time...
 
